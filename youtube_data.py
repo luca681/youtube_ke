@@ -1,7 +1,7 @@
 import json
 import requests
 
-API_KEY='AIzaSyD2Jlv1DzBaIze-ESvBSobC46jpOT6_Hm8'
+API_KEY=''
 API_URL = 'https://www.googleapis.com/youtube/v3/videos'
 
 
